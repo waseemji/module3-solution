@@ -31,6 +31,10 @@ body{
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+#page-heading{
+  font-size: 2em;
+  font-weight: bold;
+}
 section{
   background: gray;
 }
